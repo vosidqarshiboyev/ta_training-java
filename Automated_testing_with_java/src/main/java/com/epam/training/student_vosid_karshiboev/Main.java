@@ -1,4 +1,4 @@
-package com.epam.training.student_vosid_karshiboev.fundamental.main_task;
+package com.epam.training.student_vosid_karshiboev;
 
 public class Main {
     public static void main(String[] args) {
